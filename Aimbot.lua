@@ -16,7 +16,7 @@ FOVring.Visible = true
 FOVring.Thickness = 1.5
 FOVring.Radius = config.FOV
 FOVring.Transparency = 1
-FOVring.Color = Color3.fromRGB(0,0,0)
+FOVring.Color = Color3.fromRGB(83,0,224)
 FOVring.Position = workspace.CurrentCamera.ViewportSize / 2
 
 -- Function to get the closest visible player
