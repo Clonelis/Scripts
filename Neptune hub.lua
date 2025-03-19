@@ -156,7 +156,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0.270121992, 0, 0.0485605076, 0)
 TextLabel.Size = UDim2.new(0, 250, 0, 38)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Basic scripts"
+TextLabel.Text = "Neptune hub"
 TextLabel.TextColor3 = Color3.fromRGB(138,43,226)
 TextLabel.TextSize = 70.000
 
