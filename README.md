@@ -9,4 +9,3 @@ Scripts
 8. Teleport - loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Teleport.lua"))()
 9. Bang v2 - loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/bang%20v2.lua"))()
 10. fly - loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/fly.lua"))()
-
