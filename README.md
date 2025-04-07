@@ -1,7 +1,7 @@
 Scripts
 1.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Aimbot.lua"))()
 2.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Anti-Afk.lua"))()
-3.     loadstring(game:HttpGet("https://github.com/Clonelis/Scripts/blob/main/Clear-chat.lua"))()
+3.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Clear-chat.lua"))()
 4.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Esp.lua"))()
 5.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Fling.lua"))()
 6.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Ring%20Parts.lua"))()
