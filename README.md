@@ -13,3 +13,4 @@ Scripts
 12.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Teleport.lua"))()
 13.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/bang%20v2.lua"))()
 14.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/fly.lua"))()
+15.     loadstring(game:HttpGet("https://raw.githubusercontent.com/Clonelis/Scripts/refs/heads/main/Animation%20Logger"))()
