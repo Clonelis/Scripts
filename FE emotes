@@ -1,0 +1,24 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
+
+_G.tools = {
+    {name = "ishowspeed", Id = 122917964085554},
+    {name = "bubbly sit", Id = 93120341268524},
+    {name = "soda pop", Id = 105091666115616},
+    {name = "caramell dance", Id = 87275228219621},
+    {name = "caramell dance 2", Id = 123672542457042},
+    {name = "xaviersobased", Id = 90802740360125},
+    {name = "rampage", Id = 139658061151500},
+    {name = "jumpstyle", Id = 86272822145078},
+    {name = "omniman squat", Id = 104151027065011},
+    {name = "pushups", Id = 113889893443813},
+    {name = "rambunctious", Id = 129991743366120},
+    {name = "die lit", Id = 100114227897992},
+    {name = "torture dance", Id = 102261822449497},
+    {name = "electro swing", Id = 138785676658772},
+    {name = "dance if you're best emote in script", Id = 75543443460768},
+    {name = "hip bounce", Id = 103606174140721},
+    {name = "bath salt", Id = 132445195395954},
+    {name = "billy bounce", Id = 133394554631338},
+    {name = "fent fold", Id = 85138632758151},
+    {name = "fent fold 2", Id = 90396183094940},
+}
